@@ -1,0 +1,16 @@
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\bin\Debug\net5.0\Proxy.exe
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\bin\Debug\net5.0\Proxy.deps.json
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\bin\Debug\net5.0\Proxy.runtimeconfig.json
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\bin\Debug\net5.0\Proxy.runtimeconfig.dev.json
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\bin\Debug\net5.0\Proxy.dll
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\bin\Debug\net5.0\ref\Proxy.dll
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\bin\Debug\net5.0\Proxy.pdb
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\obj\Debug\net5.0\Proxy.csproj.AssemblyReference.cache
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\obj\Debug\net5.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\obj\Debug\net5.0\Proxy.AssemblyInfoInputs.cache
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\obj\Debug\net5.0\Proxy.AssemblyInfo.cs
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\obj\Debug\net5.0\Proxy.csproj.CoreCompileInputs.cache
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\obj\Debug\net5.0\Proxy.dll
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\obj\Debug\net5.0\ref\Proxy.dll
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\obj\Debug\net5.0\Proxy.pdb
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Proxy\obj\Debug\net5.0\Proxy.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\bin\Debug\net5.0\Composite.exe
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\bin\Debug\net5.0\Composite.deps.json
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\bin\Debug\net5.0\Composite.runtimeconfig.json
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\bin\Debug\net5.0\Composite.runtimeconfig.dev.json
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\bin\Debug\net5.0\Composite.dll
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\bin\Debug\net5.0\ref\Composite.dll
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\bin\Debug\net5.0\Composite.pdb
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\obj\Debug\net5.0\Composite.csproj.AssemblyReference.cache
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\obj\Debug\net5.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\obj\Debug\net5.0\Composite.AssemblyInfoInputs.cache
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\obj\Debug\net5.0\Composite.AssemblyInfo.cs
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\obj\Debug\net5.0\Composite.csproj.CoreCompileInputs.cache
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\obj\Debug\net5.0\Composite.dll
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\obj\Debug\net5.0\ref\Composite.dll
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\obj\Debug\net5.0\Composite.pdb
+D:\DesignPatterns_Sample\DesignPatterns_Samples\Composite\obj\Debug\net5.0\Composite.genruntimeconfig.cache

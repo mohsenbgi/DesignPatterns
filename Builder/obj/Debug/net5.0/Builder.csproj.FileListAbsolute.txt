@@ -1,0 +1,16 @@
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/obj/Debug/net5.0/Builder.csproj.AssemblyReference.cache
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/obj/Debug/net5.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/obj/Debug/net5.0/Builder.AssemblyInfoInputs.cache
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/obj/Debug/net5.0/Builder.AssemblyInfo.cs
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/obj/Debug/net5.0/Builder.csproj.CoreCompileInputs.cache
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/bin/Debug/net5.0/Builder
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/bin/Debug/net5.0/Builder.deps.json
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/bin/Debug/net5.0/Builder.runtimeconfig.json
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/bin/Debug/net5.0/Builder.runtimeconfig.dev.json
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/bin/Debug/net5.0/Builder.dll
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/bin/Debug/net5.0/ref/Builder.dll
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/bin/Debug/net5.0/Builder.pdb
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/obj/Debug/net5.0/Builder.dll
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/obj/Debug/net5.0/ref/Builder.dll
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/obj/Debug/net5.0/Builder.pdb
+/home/mohsen/RiderProjects/Console_Practice/ConsoleApp1/Builder/obj/Debug/net5.0/Builder.genruntimeconfig.cache

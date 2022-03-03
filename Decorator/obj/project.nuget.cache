@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D8Eroy01Ttj3ns1KZwyPgDF+qbrItxV/mWOP8WO3jWV53y99QhbO9s/TpblsbaBxXcRUPKNpqG2jNDGzkzOuMw==",
+  "success": true,
+  "projectFilePath": "D:\\DesignPatterns_Sample\\DesignPatterns_Samples\\Decorator\\Decorator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohsen\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\mohsen\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
