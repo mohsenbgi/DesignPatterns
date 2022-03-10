@@ -70,7 +70,6 @@ namespace CompositeProxy
             }
 
             var creatures2 = new Creatures(100);
-            var creaturex = new CreatureProxy(creatures, 0);
             foreach (var creature in creatures2)
             {
                 creature.X++;

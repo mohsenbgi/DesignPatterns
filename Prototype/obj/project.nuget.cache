@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "40Nc3K5EmUkjfvOzxaXnVm4NMIYknr7ET5oZx/uXeHOJwdAXzXO3yKDIMQHhUW826PtplnMaGSWAIq8GEtziRw==",
+  "dgSpecHash": "OcUXKABpzbJYEb8zRQs6Gely9q/Jv34nyW4VaF/2i+AicK0pPdA1IhqeMmjH56HVyjLsjPSymDNVLA38Sjsghw==",
   "success": true,
-  "projectFilePath": "D:\\DesignPatterns_Sample\\DesignPatterns_Samples\\Prototype\\Prototype.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/Prototype.csproj",
+  "expectedPackageFiles": [
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.8/microsoft.netcore.app.host.linux-x64.5.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "gDoTxKtDfUP3qWD9iwjFs32n3U49G/OY0Acg301F/o2PJ6ieiT2WZ+Lh6Yai0uhbmoJeSP+ov1PLFZ9Xzay+JA==",
+  "dgSpecHash": "/o79nKKyyAslucWss807FPaN3Oj6oXrewmjklbjuIJtdvqQpzzyLg+p8zjr55u1RPcvUMeiW/dXmR6Lq4nribw==",
   "success": true,
-  "projectFilePath": "D:\\DesignPatterns_Sample\\DesignPatterns_Samples\\Bridge\\Bridge.csproj",
+  "projectFilePath": "/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Bridge/Bridge.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mohsen\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
-    "C:\\Users\\mohsen\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "/home/mohsen/.nuget/packages/autofac/6.2.0/autofac.6.2.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.8/microsoft.netcore.app.host.linux-x64.5.0.8.nupkg.sha512"
   ],
   "logs": []
 }
