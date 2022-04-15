@@ -1,0 +1,15 @@
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/bin/Release/net6.0/State
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/bin/Release/net6.0/State.deps.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/bin/Release/net6.0/State.runtimeconfig.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/bin/Release/net6.0/State.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/bin/Release/net6.0/State.pdb
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/obj/Release/net6.0/State.csproj.AssemblyReference.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/obj/Release/net6.0/State.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/obj/Release/net6.0/State.AssemblyInfoInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/obj/Release/net6.0/State.AssemblyInfo.cs
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/obj/Release/net6.0/State.csproj.CoreCompileInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/obj/Release/net6.0/State.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/obj/Release/net6.0/refint/State.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/obj/Release/net6.0/State.pdb
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/obj/Release/net6.0/State.genruntimeconfig.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/State/obj/Release/net6.0/ref/State.dll

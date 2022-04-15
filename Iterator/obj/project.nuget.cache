@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zKCvP3h16M0v4gYcyJp3s9lB0VIq/TDatKKw3fDAlHEyeHfQVUH5Ho2tbPaEE0VC/Ab2j/ANcJfwE2OP1BTDag==",
+  "success": true,
+  "projectFilePath": "/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Iterator/Iterator.csproj",
+  "expectedPackageFiles": [
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

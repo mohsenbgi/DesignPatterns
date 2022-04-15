@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "eqcJJB3xD2OIBL8QFnndLRT5XRQhMUweCBzhIjqF9mlfDRSXOn2n2MpHE89Ylh1DlR62zF271A9Tm+TtKbqclQ==",
+  "dgSpecHash": "4IEwG12F2Eb/lg7LYWFIL+Pd+/CIgMBs9S4ZEZobmPsGH0eWYy5uCXZp0sryhzL/TBdYmuQhEUFOcOb5qfFI0w==",
   "success": true,
   "projectFilePath": "/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/ChainOfResponsibility.csproj",
   "expectedPackageFiles": [
     "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/mohsen/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.8/microsoft.netcore.app.host.linux-x64.5.0.8.nupkg.sha512"
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dLk6c12XAWK+J6RG5S+U4i1Zemw0pW1YbZpRLUrLHRXWEZgJZ66JZqmLvR6jVEDb+Nf/BnrVQZtMfLgUD9ajhA==",
+  "dgSpecHash": "0xygvv++AcgAmpLdZducChl+W65c6rVOgYGe3XZBpNch2iM3enWanJ7oxkYFSpTMCHKCnq268jC6QwPcpjNPsg==",
   "success": true,
   "projectFilePath": "/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Singleton/Singleton.csproj",
   "expectedPackageFiles": [
@@ -95,8 +95,7 @@
     "/home/mohsen/.nuget/packages/xunit.extensibility.core/2.4.1/xunit.extensibility.core.2.4.1.nupkg.sha512",
     "/home/mohsen/.nuget/packages/xunit.extensibility.execution/2.4.1/xunit.extensibility.execution.2.4.1.nupkg.sha512",
     "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/mohsen/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.8/microsoft.netcore.app.host.linux-x64.5.0.8.nupkg.sha512"
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

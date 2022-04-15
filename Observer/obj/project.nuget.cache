@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqzMjXMwGfeAXe+/Z/hyGkbLjC+Oz9BKUJUS2f952wwXa7kOxZr2wBGNHMYDvNz0Rm9qfCJab3+cdC6hkuKm8g==",
+  "success": true,
+  "projectFilePath": "/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Observer/Observer.csproj",
+  "expectedPackageFiles": [
+    "/home/mohsen/.nuget/packages/autofac/6.3.0/autofac.6.3.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/corecompat.libgdiplus/6.0.4-ci-84/corecompat.libgdiplus.6.0.4-ci-84.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.win32.systemevents/4.5.0/microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/system.data.sqlclient/4.8.3/system.data.sqlclient.4.8.3.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/system.drawing.common/4.5.0/system.drawing.common.4.5.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/system.reactive/5.0.0/system.reactive.5.0.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

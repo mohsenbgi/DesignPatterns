@@ -1,0 +1,16 @@
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/bin/Release/net5.0/Composite
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/bin/Release/net5.0/Composite.deps.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/bin/Release/net5.0/Composite.runtimeconfig.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/bin/Release/net5.0/Composite.runtimeconfig.dev.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/bin/Release/net5.0/Composite.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/bin/Release/net5.0/ref/Composite.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/bin/Release/net5.0/Composite.pdb
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/obj/Release/net5.0/Composite.csproj.AssemblyReference.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/obj/Release/net5.0/Composite.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/obj/Release/net5.0/Composite.AssemblyInfoInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/obj/Release/net5.0/Composite.AssemblyInfo.cs
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/obj/Release/net5.0/Composite.csproj.CoreCompileInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/obj/Release/net5.0/Composite.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/obj/Release/net5.0/ref/Composite.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/obj/Release/net5.0/Composite.pdb
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Composite/obj/Release/net5.0/Composite.genruntimeconfig.cache

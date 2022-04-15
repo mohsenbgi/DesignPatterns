@@ -1,0 +1,4 @@
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Memento/obj/Release/net5.0/Memento.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Memento/obj/Release/net5.0/Memento.AssemblyInfoInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Memento/obj/Release/net5.0/Memento.AssemblyInfo.cs
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Memento/obj/Release/net5.0/Memento.csproj.CoreCompileInputs.cache

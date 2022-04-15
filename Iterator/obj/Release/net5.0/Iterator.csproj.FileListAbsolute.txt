@@ -1,0 +1,4 @@
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Iterator/obj/Release/net5.0/Iterator.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Iterator/obj/Release/net5.0/Iterator.AssemblyInfoInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Iterator/obj/Release/net5.0/Iterator.AssemblyInfo.cs
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Iterator/obj/Release/net5.0/Iterator.csproj.CoreCompileInputs.cache

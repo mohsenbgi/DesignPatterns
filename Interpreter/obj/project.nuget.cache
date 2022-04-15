@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1yCh6EOCPCg37ohNjAJAcEGuUX7VHsNT3zwV4yx3dc2RK2Yv01/xJN1coYD1PiRv/9MtF6ROhJkNfiFnEiPzmw==",
+  "success": true,
+  "projectFilePath": "/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Interpreter/Interpreter.csproj",
+  "expectedPackageFiles": [
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Command/obj/Release/net5.0/Command.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Command/obj/Release/net5.0/Command.AssemblyInfoInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Command/obj/Release/net5.0/Command.AssemblyInfo.cs
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Command/obj/Release/net5.0/Command.csproj.CoreCompileInputs.cache

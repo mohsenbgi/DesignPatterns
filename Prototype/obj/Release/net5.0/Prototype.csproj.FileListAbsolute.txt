@@ -1,0 +1,15 @@
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/bin/Release/net5.0/Prototype
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/bin/Release/net5.0/Prototype.deps.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/bin/Release/net5.0/Prototype.runtimeconfig.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/bin/Release/net5.0/Prototype.runtimeconfig.dev.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/bin/Release/net5.0/Prototype.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/bin/Release/net5.0/ref/Prototype.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/bin/Release/net5.0/Prototype.pdb
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/obj/Release/net5.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/obj/Release/net5.0/Prototype.AssemblyInfoInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/obj/Release/net5.0/Prototype.AssemblyInfo.cs
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/obj/Release/net5.0/Prototype.csproj.CoreCompileInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/obj/Release/net5.0/Prototype.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/obj/Release/net5.0/ref/Prototype.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/obj/Release/net5.0/Prototype.pdb
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Prototype/obj/Release/net5.0/Prototype.genruntimeconfig.cache

@@ -1,14 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fXztzl7EXRFzrowKoz5A7/puxGqMxXOhcSvStZtkM+WrKhuZo4MRwzlRaBpStIv45zucavWQ0U0CxyEiUpqZYg==",
+  "dgSpecHash": "LsbuZLQ4H2N9D6Ve6HHNROYDLib/3Fqlh1UP2hwFsy6I80SdE8kTodfk4sx96AqnIvhPC4I15JwgPE9GTPYncw==",
   "success": true,
   "projectFilePath": "/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Decorator/Decorator.csproj",
   "expectedPackageFiles": [
     "/home/mohsen/.nuget/packages/autofac/6.2.0/autofac.6.2.0.nupkg.sha512",
     "/home/mohsen/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/mohsen/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.8/microsoft.netcore.app.host.linux-x64.5.0.8.nupkg.sha512"
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

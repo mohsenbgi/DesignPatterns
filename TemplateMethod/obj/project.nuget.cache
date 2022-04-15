@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rWzIJrdlezrBcLqQLWfpgkHySh5ESK6cy7LLf9VEz1gANqrneeWcphegpiUgwJ8n3q2/NhQDdCERnrYhkvVNig==",
+  "success": true,
+  "projectFilePath": "/home/mohsen/Desktop/DesignPatterns/DesignPatterns/TemplateMethod/TemplateMethod.csproj",
+  "expectedPackageFiles": [
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/6.0.3/microsoft.netcore.app.ref.6.0.3.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.3/microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.3/microsoft.netcore.app.host.linux-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

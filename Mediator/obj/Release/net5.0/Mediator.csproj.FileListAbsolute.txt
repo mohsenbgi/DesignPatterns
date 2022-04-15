@@ -1,0 +1,5 @@
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Mediator/obj/Release/net5.0/Mediator.csproj.AssemblyReference.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Mediator/obj/Release/net5.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Mediator/obj/Release/net5.0/Mediator.AssemblyInfoInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Mediator/obj/Release/net5.0/Mediator.AssemblyInfo.cs
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Mediator/obj/Release/net5.0/Mediator.csproj.CoreCompileInputs.cache

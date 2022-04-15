@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Mh62WyedYp4ev7wSSB2uvoHPdJiPYsvcKstyiITptZdx/ADIPYSedbGJmIzSKntjs+WTShwkSm1+o0NIiSnNlQ==",
+  "dgSpecHash": "AsoOeMqLe747auhhIiUo5bBBPxGTA0Jp6xRwnb7Sivi5SEEcLi9y5ArWDqGRQnDmvI3Y5ffbN+gBJEBMyt2nWA==",
   "success": true,
   "projectFilePath": "/home/mohsen/Desktop/DesignPatterns/DesignPatterns/FlyWeight/FlyWeight.csproj",
   "expectedPackageFiles": [
@@ -50,8 +50,7 @@
     "/home/mohsen/.nuget/packages/system.xml.readerwriter/4.0.11/system.xml.readerwriter.4.0.11.nupkg.sha512",
     "/home/mohsen/.nuget/packages/system.xml.xdocument/4.0.11/system.xml.xdocument.4.0.11.nupkg.sha512",
     "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/mohsen/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.8/microsoft.netcore.app.host.linux-x64.5.0.8.nupkg.sha512"
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

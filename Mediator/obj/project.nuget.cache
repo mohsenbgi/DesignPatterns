@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "UbDdjNjxTTojFZWo540f36F4AusngBWm3YJmux5OfpePdmxXP8B/Rf/TEfzQY8fuacWRyPeBExZzszRldcTO3w==",
+  "success": true,
+  "projectFilePath": "/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Mediator/Mediator.csproj",
+  "expectedPackageFiles": [
+    "/home/mohsen/.nuget/packages/autofac/6.3.0/autofac.6.3.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/jetbrains.annotations/2022.1.0-eap3/jetbrains.annotations.2022.1.0-eap3.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/system.reactive/5.0.0/system.reactive.5.0.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/bin/Release/net5.0/ChainOfResponsibility
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/bin/Release/net5.0/ChainOfResponsibility.deps.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/bin/Release/net5.0/ChainOfResponsibility.runtimeconfig.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/bin/Release/net5.0/ChainOfResponsibility.runtimeconfig.dev.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/bin/Release/net5.0/ChainOfResponsibility.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/bin/Release/net5.0/ref/ChainOfResponsibility.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/bin/Release/net5.0/ChainOfResponsibility.pdb
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/obj/Release/net5.0/ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/obj/Release/net5.0/ChainOfResponsibility.AssemblyInfoInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/obj/Release/net5.0/ChainOfResponsibility.AssemblyInfo.cs
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/obj/Release/net5.0/ChainOfResponsibility.csproj.CoreCompileInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/obj/Release/net5.0/ChainOfResponsibility.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/obj/Release/net5.0/ref/ChainOfResponsibility.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/obj/Release/net5.0/ChainOfResponsibility.pdb
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/ChainOfResponsibility/obj/Release/net5.0/ChainOfResponsibility.genruntimeconfig.cache

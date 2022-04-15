@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OiOy4Ltcjm4UnRbCMrUAF9mzjpP+pXdT2UidCIJUa0e6sHae7Pg2AgtGR9N9320WRhdsSBopJJZSZjuckiOmwg==",
+  "success": true,
+  "projectFilePath": "/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Strategy/Strategy.csproj",
+  "expectedPackageFiles": [
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.ref/6.0.3/microsoft.netcore.app.ref.6.0.3.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.3/microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512",
+    "/home/mohsen/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.3/microsoft.netcore.app.host.linux-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

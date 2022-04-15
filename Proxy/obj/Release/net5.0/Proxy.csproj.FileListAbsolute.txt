@@ -1,0 +1,4 @@
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Proxy/obj/Release/net5.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Proxy/obj/Release/net5.0/Proxy.AssemblyInfoInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Proxy/obj/Release/net5.0/Proxy.AssemblyInfo.cs
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Proxy/obj/Release/net5.0/Proxy.csproj.CoreCompileInputs.cache

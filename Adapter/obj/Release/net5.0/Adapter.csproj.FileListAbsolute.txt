@@ -1,0 +1,15 @@
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/bin/Release/net5.0/Adapter
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/bin/Release/net5.0/Adapter.deps.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/bin/Release/net5.0/Adapter.runtimeconfig.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/bin/Release/net5.0/Adapter.runtimeconfig.dev.json
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/bin/Release/net5.0/Adapter.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/bin/Release/net5.0/ref/Adapter.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/bin/Release/net5.0/Adapter.pdb
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/obj/Release/net5.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/obj/Release/net5.0/Adapter.AssemblyInfoInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/obj/Release/net5.0/Adapter.AssemblyInfo.cs
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/obj/Release/net5.0/Adapter.csproj.CoreCompileInputs.cache
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/obj/Release/net5.0/Adapter.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/obj/Release/net5.0/ref/Adapter.dll
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/obj/Release/net5.0/Adapter.pdb
+/home/mohsen/Desktop/DesignPatterns/DesignPatterns/Adapter/obj/Release/net5.0/Adapter.genruntimeconfig.cache
